@@ -1,0 +1,6 @@
+{
+    "proveedores": [
+      { "id": "1", "nombre": "Proveedor A", "razonSocial": "Razón A", "direccion": "Dirección A" },
+      { "id": "2", "nombre": "Proveedor B", "razonSocial": "Razón B", "direccion": "Dirección B" }
+    ]
+  }
